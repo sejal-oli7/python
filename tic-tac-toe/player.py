@@ -9,8 +9,3 @@ class Player:
 
 
 
-player1 = Player("Sejal", "X")
-player2 = Player("Sita", "O")
-
-player1.display_info()
-player2.display_info()

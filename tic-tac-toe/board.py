@@ -11,5 +11,3 @@ class Board:
         print(f" {self.board[6]} | {self.board[7]} | {self.board[8]}")
         print()
 
-board = Board()
-board.display()
